@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joel hax stuff</title>
+    <description>the number 42.</description>
+    <link>http://joelrebel.github.io</link>
+    <atom:link href="http://joelrebel.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>First post!</title>
+        <description>
+          
+          After years of hacking on various things,
+I realized I needed to take notes, so here it is.
+
+        </description>
+        <pubDate>Tue, 09 Aug 2016 00:00:00 +0800</pubDate>
+        <link>http://joelrebel.github.io/2016-08-09-first-post/</link>
+        <guid isPermaLink="true">http://joelrebel.github.io/2016-08-09-first-post/</guid>
+      </item>
+    
+  </channel>
+</rss>
